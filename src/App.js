@@ -15,6 +15,7 @@ function App() {
           <Route exact path='/' component={Home} />
           <Route exact path='/video' component={Video} />
           <Route path='/cart' component={Cart} />
+          <Route component={() => (<div>404 Not found </div>)} />
         </Switch>
       </BrowserRouter>
     </div>
