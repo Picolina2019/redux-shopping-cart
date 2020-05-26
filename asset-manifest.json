@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-shopping-cart/static/css/main.9d71f0b2.chunk.css",
+    "main.js": "/redux-shopping-cart/static/js/main.2be0f3e7.chunk.js",
+    "main.js.map": "/redux-shopping-cart/static/js/main.2be0f3e7.chunk.js.map",
+    "runtime-main.js": "/redux-shopping-cart/static/js/runtime-main.6c85e701.js",
+    "runtime-main.js.map": "/redux-shopping-cart/static/js/runtime-main.6c85e701.js.map",
+    "static/js/2.baa91300.chunk.js": "/redux-shopping-cart/static/js/2.baa91300.chunk.js",
+    "static/js/2.baa91300.chunk.js.map": "/redux-shopping-cart/static/js/2.baa91300.chunk.js.map",
+    "index.html": "/redux-shopping-cart/index.html",
+    "precache-manifest.9d5c5982815c0acbdecc57a014769ebc.js": "/redux-shopping-cart/precache-manifest.9d5c5982815c0acbdecc57a014769ebc.js",
+    "service-worker.js": "/redux-shopping-cart/service-worker.js",
+    "static/css/main.9d71f0b2.chunk.css.map": "/redux-shopping-cart/static/css/main.9d71f0b2.chunk.css.map",
+    "static/js/2.baa91300.chunk.js.LICENSE.txt": "/redux-shopping-cart/static/js/2.baa91300.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/redux-shopping-cart/static/media/1.06eb1e30.jpg",
+    "static/media/clip.mp4": "/redux-shopping-cart/static/media/clip.14cda6ed.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c85e701.js",
+    "static/js/2.baa91300.chunk.js",
+    "static/css/main.9d71f0b2.chunk.css",
+    "static/js/main.2be0f3e7.chunk.js"
+  ]
+}
